@@ -1,2 +1,18 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */.item:nth-child(1) {
+  background-color: red;
+}
+.item:nth-child(2) {
+  background-color: blue;
+}
+.item:nth-child(3) {
+  background-color: green;
+}
+
+.item {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+  margin: 5px;
+}
